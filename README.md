@@ -1,6 +1,6 @@
 # Computer Science for JavaScript Challenge: Regex Tutorial
 
-## [Matching an Email Gist](https://gist.github.com/tropical9/4fe358ec56d7ab969f7dda02c82af052.js)
+## [Matching an Email Gist](https://gist.github.com/tropical9/4fe358ec56d7ab969f7dda02c82af052)
 
 
 ## Description
